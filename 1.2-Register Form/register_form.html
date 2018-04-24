@@ -2,9 +2,115 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Register Form</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css"
+          integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            background: linear-gradient(to right, #3FB6A8, #7ED386);
+        }
+
+        .container {
+            background: #FFFFFF;
+            width: 540px;
+            height: 420px;
+            margin: 0 auto;
+            position: relative;
+            margin-top: 10%;
+            box-shadow: 2px 5px 20px rgba(119, 119, 119, 0.5);
+        }
+
+        .form-box {
+            border-width: 1px;
+            border-style: solid;
+            border-image: linear-gradient(to right, #3FB6A8, rgba(126, 211, 134, 0.5)) 1 0%;
+            border-top: 0;
+            width: 80%;
+            font-family: "Montserrat", sans-serif;
+            font-size: 0.8em;
+            padding: 7px 0;
+            color: #070707;
+        }
+
+        .form-label {
+            font-family: "Roboto", sans-serif;
+            text-transform: uppercase;
+            color: #777777;
+            letter-spacing: 2px;
+            font-size: 0.9em;
+        }
+    </style>
 </head>
 <body>
-$END$
+<div class="container">
+    <form>
+        <fieldset>
+            <div class="row" style="padding-top: 3%">
+                <div class="col">
+                    <label for="firstname" class="form-label">Firstname</label>
+                    <input type="text" class="form-control form-box" placeholder="First name" id="firstname">
+                </div>
+                <div class="col">
+                    <label for="lastname" class="form-label">Lastname</label>
+                    <input type="text" class="form-control form-box" placeholder="Last name" id="lastname">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label for="lastname" class="form-label">Lastname</label>
+                    <input type="password" class="form-control form-box" placeholder="Password">
+                </div>
+                <div class="col">
+                    <label for="confirm-password" class="form-label">Confirm Password</label>
+                    <input type="password" class="form-control form-box" placeholder="Confirm password"
+                           id="confirm-password">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label for="email" class="form-label">Email address</label>
+                    <input type="email" class="form-control form-box" id="email" aria-describedby="emailHelp"
+                           placeholder="Email address">
+                </div>
+                <div class="col">
+                    <label for="confirm-email" class="form-label">Confirm email</label>
+                    <input type="email" class="form-control form-box" id="confirm-email" aria-describedby="emailHelp"
+                           placeholder="Confirm email">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label for="birthday" class="form-label">Birthday</label>
+                    <input type="date" class="form-control form-box" id="birthday">
+                </div>
+            </div>
+            <div class="row" style="padding-top: 5%">
+                <div class="col"></div>
+                <div class="col">
+                    <label class="form-label">Sex</label>
+                </div>
+                <div class="col">
+                    <div class="form-check">
+                        <input type="radio" class="form-check-input" name="gender" id="male" checked>
+                        <label class="form-check-label form-label" for="male">Male</label>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="form-check">
+                        <input type="radio" class="form-check-input" name="gender" id="female">
+                        <label class="form-check-label form-label" for="female">Female</label>
+                    </div>
+                </div>
+                <div class="col"></div>
+            </div>
+            <div class="row justify-content-center" style="padding-top: 3%">
+                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="reset" class="btn btn-dark" style="margin-left: 5%">Reset</button>
+            </div>
+        </fieldset>
+    </form>
+</div>
 </body>
 </html>
