@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+</head>
+<body>
+<h1 id="Test"></h1>
+<table>
+    <thead>
+    <tr id="header"></tr>
+    </thead>
+    <tbody id="table-content">
+    <tr id="1001"></tr>
+    <tr id="1002"></tr>
+    <tr id="1003"></tr>
+    <tr id="1004"></tr>
+    </tbody>
+</table>
+</body>
+<script>
+    const peopleSalary = [
+        {
+            "id": "1001",
+            "firstname": "Luke",
+            "lastname": "Skywalker",
+            "company": "Walt Disney",
+            "salary": "40000"
+        },
+        {
+            "id": "1002",
+            "firstname": "Tony",
+            "lastname": "Stark",
+            "company": "Marvel",
+            "salary": "1000000"
+        },
+        {
+            "id": "1003",
+            "firstname": "Somchai",
+            "lastname": "Jaidee",
+            "company": "Love2work",
+            "salary": "20000"
+        },
+        {
+            "id": "1004",
+            "firstname": "Monkey D",
+            "lastname": "Luffee",
+            "company": "One Piece",
+            "salary": "9000000"
+        }
+    ];
+    const tableHeader = peopleSalary[0];
+
+    for (let i in tableHeader) {
+        $("#header").append("<th>" + i + "</th>");
+    }
+    for (let i = 0; i < peopleSalary.length; i++) {
+        let changeRow = "#" + (1001 + i);
+        for (let j in tableHeader) {
+            $(changeRow).append("<td>" + peopleSalary[i][j] + "</td>");
+        }
+    }
+</script>
+</html>
