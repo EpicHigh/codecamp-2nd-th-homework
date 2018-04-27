@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,500,700');
+
 .portfolio {
     background: linear-gradient(to right, #3FB6A8, #7ED386);
 }
@@ -80,3 +82,24 @@ footer a .icons {
 .card-text {
     font-size: 14px;
 }
+
+.table-content {
+    color: white;
+    font-size: 2em;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.table-head {
+    color: white;
+    font-family: 'Ubuntu:700', sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.table-content2 {
+    color: white;
+    font-family: 'Ubuntu:500', sans-serif;
+    font-size: 21px;
+    text-align: center;
+}
+

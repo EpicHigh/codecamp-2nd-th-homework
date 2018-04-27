@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="592d7318-8e0c-4fb1-b7f0-9516749b35a9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Week1/2.3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/thailand-software-park-codecamp-2-homework-week-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/thailand-software-park-codecamp-2-homework.iml" afterDir="false" />
+    <list default="true" id="592d7318-8e0c-4fb1-b7f0-9516749b35a9" name="Default" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/Week1/2.3/homework2_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/2.4/homework2_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/2.4/homework2_4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1-Portfolio/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/1.1-Portfolio/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1-Portfolio/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/1.1-Portfolio/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1-Portfolio/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/1.1-Portfolio/skills.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2-Register Form/register_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/1.2-Register Form/register_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3-Portfolio/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/1.3-Portfolio/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1/homework2_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/2.1/homework2_1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/2.2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/mystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/2.2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/2.2/honework2_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/2.3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/2.3/homework2_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/mystyle.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,20 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week1/2.3/index.html">
+      <file leaf-file-name="homework2_4.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week1/2.4/homework2_4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week1/Test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            <state relative-caret-position="82">
+              <caret line="931" column="35" lean-forward="true" selection-start-line="931" selection-start-column="35" selection-end-line="931" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -51,6 +37,11 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hvr-radial-out</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -72,6 +63,13 @@
         <option value="$PROJECT_DIR$/Week1/2.2/Test.js" />
         <option value="$PROJECT_DIR$/Week1/Test.js" />
         <option value="$PROJECT_DIR$/Week1/2.3/index.html" />
+        <option value="$PROJECT_DIR$/Week1/1.2-Register Form/register_form.html" />
+        <option value="$PROJECT_DIR$/Week1/2.4/index.html" />
+        <option value="$PROJECT_DIR$/Week1/2.3/homework2_3.js" />
+        <option value="$PROJECT_DIR$/Week1/2.3/homework2_3.html" />
+        <option value="$PROJECT_DIR$/Week1/2.4/homework2_4.html" />
+        <option value="$PROJECT_DIR$/Week1/mystyle.css" />
+        <option value="$PROJECT_DIR$/Week1/2.4/homework2_4.js" />
       </list>
     </option>
   </component>
@@ -111,13 +109,19 @@
               <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="thailand-software-park-codecamp-2-homework-week-1" type="462c0819:PsiDirectoryNode" />
               <item name="Week1" type="462c0819:PsiDirectoryNode" />
-              <item name="2.2" type="462c0819:PsiDirectoryNode" />
+              <item name="1.2-Register Form" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="thailand-software-park-codecamp-2-homework-week-1" type="462c0819:PsiDirectoryNode" />
               <item name="Week1" type="462c0819:PsiDirectoryNode" />
               <item name="2.3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thailand-software-park-codecamp-2-homework-week-1" type="462c0819:PsiDirectoryNode" />
+              <item name="Week1" type="462c0819:PsiDirectoryNode" />
+              <item name="2.4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,14 +134,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Week1" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Guant\WebstormProjects\thailand-software-park-codecamp-2-homework-week-1\Week1" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Guant\WebstormProjects\thailand-software-park-codecamp-2-homework-week-1\2.3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Guant\WebstormProjects\thailand-software-park-codecamp-2-homework-week-1" />
+      <recent name="C:\Users\Guant\WebstormProjects\thailand-software-park-codecamp-2-homework-week-1\Week1" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -152,10 +158,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Test.js" working-dir="$PROJECT_DIR$/Week1" />
+  <component name="RunManager" selected="Node.js.homework2_4.js">
+    <configuration name="Test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Test.js" working-dir="$PROJECT_DIR$/Week1" />
+    <configuration name="homework2_4.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="homework2_4.js" working-dir="$PROJECT_DIR$/Week1/2.4" />
+    <list>
+      <item itemvalue="Node.js.Test.js" />
+      <item itemvalue="Node.js.homework2_4.js" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.homework2_4.js" />
         <item itemvalue="Node.js.Test.js" />
       </list>
     </recent_temporary>
@@ -175,7 +187,10 @@
       <workItem from="1524758841938" duration="8165000" />
       <workItem from="1524767379248" duration="1315000" />
       <workItem from="1524820384029" duration="765000" />
-      <workItem from="1524824974060" duration="7488000" />
+      <workItem from="1524824974060" duration="7786000" />
+      <workItem from="1524838205475" duration="222000" />
+      <workItem from="1524838440528" duration="151000" />
+      <workItem from="1524838658756" duration="15455000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1524768070609</created>
@@ -184,22 +199,29 @@
       <option name="project" value="LOCAL" />
       <updated>1524768070609</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1524832972862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524832972862</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18769000" />
+    <option name="totallyTimeSpent" value="34895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.115625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1859375" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32873806" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23223753" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23168103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -208,7 +230,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.3297062" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -230,6 +251,27 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Week1/2.3/homework2_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/2.3/homework2_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="59" column="51" lean-forward="true" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/2.3/homework2_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1817">
+          <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week1/2.1/homework2_1.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -237,7 +279,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/2.2/index.html">
+    <entry file="file://$PROJECT_DIR$/Week1/2.2/honework2_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
@@ -251,7 +293,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/2.2/index.html">
+    <entry file="file://$PROJECT_DIR$/Week1/2.2/honework2_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1495">
           <caret line="65" column="7" lean-forward="true" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
@@ -265,7 +307,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/2.2/index.html">
+    <entry file="file://$PROJECT_DIR$/Week1/2.2/honework2_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1311">
           <caret line="57" column="50" lean-forward="true" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
@@ -293,36 +335,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/mystyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/2.2/Test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="40" column="40" lean-forward="true" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/2.2/index.html">
+    <entry file="file://$PROJECT_DIR$/Week1/2.2/Test.js" />
+    <entry file="file://$PROJECT_DIR$/Week1/2.2/honework2_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/Test.js">
+    <entry file="file://$PROJECT_DIR$/Test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
           <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/2.3/index.html">
+    <entry file="file://$PROJECT_DIR$/Week1/hover.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+        <state relative-caret-position="-161">
+          <caret line="1584" column="2" selection-start-line="1584" selection-start-column="2" selection-end-line="1584" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/2.4/homework1-4.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/mystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="102" column="22" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/1.2-Register Form/register_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/2.3/homework2_3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+          <folding>
+            <element signature="e#21#643#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/2.3/homework2_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/2.4/homework2_4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/2.4/homework2_4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="931" column="35" lean-forward="true" selection-start-line="931" selection-start-column="35" selection-end-line="931" selection-end-column="35" />
         </state>
       </provider>
     </entry>
