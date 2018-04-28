@@ -15,7 +15,7 @@
         .container {
             background: #FFFFFF;
             width: 540px;
-            height: 420px;
+            height: 450px;
             margin: 0 auto;
             position: relative;
             margin-top: 10%;
@@ -45,8 +45,9 @@
 </head>
 <body>
 <div class="container">
-    <form>
+    <form method="post" class="form-box" style="padding-left: 5%; margin-left: 10%">
         <fieldset>
+            <legend>Register form</legend>
             <div class="row" style="padding-top: 3%">
                 <div class="col">
                     <label for="firstname" class="form-label">Firstname</label>
@@ -82,8 +83,84 @@
             </div>
             <div class="row">
                 <div class="col">
-                    <label for="birthday" class="form-label">Birthday</label>
-                    <input type="date" class="form-control form-box" id="birthday">
+                    <div class="justify-content-center" style="padding-left: 25%; padding-top: 5%">
+                        <label class="form-label">Birthday</label>
+                        <select name="date">
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="1">5</option>
+                            <option value="2">6</option>
+                            <option value="3">7</option>
+                            <option value="4">8</option>
+                            <option value="1">9</option>
+                            <option value="2">10</option>
+                            <option value="3">11</option>
+                            <option value="4">12</option>
+                            <option value="1">13</option>
+                            <option value="2">14</option>
+                            <option value="3">15</option>
+                            <option value="4">16</option>
+                            <option value="1">17</option>
+                            <option value="2">18</option>
+                            <option value="3">19</option>
+                            <option value="4">20</option>
+                            <option value="1">21</option>
+                            <option value="2">22</option>
+                            <option value="3">23</option>
+                            <option value="4">24</option>
+                            <option value="1">25</option>
+                            <option value="2">26</option>
+                            <option value="3">27</option>
+                            <option value="4">28</option>
+                            <option value="1">29</option>
+                            <option value="2">30</option>
+                            <option value="3">31</option>
+                        </select>
+                        <select name="month">
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="1">5</option>
+                            <option value="2">6</option>
+                            <option value="3">7</option>
+                            <option value="4">8</option>
+                            <option value="1">9</option>
+                            <option value="2">10</option>
+                            <option value="3">11</option>
+                            <option value="4">12</option>
+                        </select>
+                        <select name="date">
+                            <option value="1">1980</option>
+                            <option value="2">1981</option>
+                            <option value="3">1982</option>
+                            <option value="4">1983</option>
+                            <option value="1">1984</option>
+                            <option value="2">1985</option>
+                            <option value="3">1986</option>
+                            <option value="4">1987</option>
+                            <option value="1">1988</option>
+                            <option value="2">1989</option>
+                            <option value="3">1990</option>
+                            <option value="4">1991</option>
+                            <option value="1">1992</option>
+                            <option value="2">1993</option>
+                            <option value="3">1994</option>
+                            <option value="4">1995</option>
+                            <option value="1">1996</option>
+                            <option value="2">1997</option>
+                            <option value="3">1998</option>
+                            <option value="4">1999</option>
+                            <option value="1">2000</option>
+                            <option value="2">2001</option>
+                            <option value="3">2002</option>
+                            <option value="4">2003</option>
+                            <option value="1">2004</option>
+                            <option value="1">2005</option>
+                        </select>
+                    </div>
                 </div>
             </div>
             <div class="row" style="padding-top: 5%">
@@ -112,5 +189,10 @@
         </fieldset>
     </form>
 </div>
+<div id="test">
+
+</div>
+
 </body>
+
 </html>

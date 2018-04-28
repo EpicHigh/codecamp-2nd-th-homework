@@ -37,16 +37,16 @@ for (let i in tableHeader) {
 for (let i = 0; i < peopleSalary.length; i++) {
     let changeRow = "#" + (1001 + i);
     for (let j in tableHeader) {
+        let currentSalary = parseInt(peopleSalary[i][j]);
         if (j !== "company") {
             if (j !== "salary") {
                 $(changeRow).append("<td>" + peopleSalary[i][j] + "</td>");
             }
             if (j === "salary") {
-                let salary = parseInt(peopleSalary[i][j]);
                 let salaryList = "<ol>";
                 for (let k = 0; k < 3; k++) {
-                    salaryList += "<li>" + salary + "</li>";
-                    salary += peopleSalary[i][j] * 0.1;
+                    salaryList += "<li>" + currentSalary + "</li>";
+                    currentSalary += (currentSalary * 0.1);
                 }
                 salaryList += "</ol>";
                 $(changeRow).append(salaryList);

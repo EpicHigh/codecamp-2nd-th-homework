@@ -939,12 +939,7 @@ for (let i = 0; i < data.length; i++) {
         }
     }
 }
-$("#profileHead").append("<th>Photo</th>");
-$("#profileHead").append("<th>Name</th>");
-$("#profileHead").append("<th>Friend Count</th>");
-$("#profileHead").append("<th>Email</th>");
-$("#profileHead").append("<th>Company</th>");
-$("#profileHead").append("<th>Balance</th>");
+
 //Manipulate eye color arrays
 eyesColorArray.sort();
 eyesColorTypes.push(eyesColorArray[0]);
@@ -986,13 +981,24 @@ for (let i in genderArray) {
             break;
     }
 }
-
+//Create a tables
 for (let i in eyesColorTypes) {
     $("#eyeColor").append("<tr><td>" + eyesColorTypes[i] + "</td><td>" + eyeColorCount[i] + "</td></tr>");
 }
 for (let i in genderTypes) {
     $("#genders").append("<tr><td>" + genderTypes[i] + "</td><td>" + genderCount[i] + "</td></tr>");
 }
+
+function createTableHeader() {
+    $("#profileHead").append("<th>Photo</th>");
+    $("#profileHead").append("<th>Name</th>");
+    $("#profileHead").append("<th>Friend Count</th>");
+    $("#profileHead").append("<th>Email</th>");
+    $("#profileHead").append("<th>Company</th>");
+    $("#profileHead").append("<th>Balance</th>");
+}
+
+createTableHeader();
 for (let i in name) {
     $("#profile").append("<tr><td><img src=\"http://placehold.jp/3d4070/ffffff/50x50.png?css=%7B%22border-radius%22%3A%2215px%22%7D\"></td><td>"
         + name[i] + "</td><td>" + friendCount[i] + "</td><td>" + email[i] + "</td><td>" + companyX[i] + "</td><td>" + balance[i] + "</td></tr>")
