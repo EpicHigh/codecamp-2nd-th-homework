@@ -1,0 +1,11 @@
+@media (max-width: 767.98px) {
+    .img-responive {
+        width: 75%;
+    }
+
+    .small-image {
+        width: 35%;
+        margin-left: 1%;
+        margin-top: 2%;
+    }
+}

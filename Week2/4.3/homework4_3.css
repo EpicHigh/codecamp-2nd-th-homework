@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:800');
+
+.bg {
+    background: #586675;
+    background: -moz-radial-gradient(center, #586675 0%, #000000 100%);
+    background: -webkit-radial-gradient(center, #586675 0%, #000000 100%);
+    background: radial-gradient(ellipse at center, #586675 0%, #000000 100%);
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    -webkit-box-shadow: 2px 4px 12px 1px rgba(0, 0, 0, 0.5);
+    box-shadow: 2px 4px 12px 1px rgba(0, 0, 0, 0.5)
+}
+
+#caption {
+    position: relative;
+}
+
+#caption .text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    opacity: 0;
+    transition: all 0.8s ease;
+}
+
+#caption .text h1 {
+    margin: 0;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+
+#caption:hover .text {
+    opacity: 1;
+
+}
+
+#caption:hover img {
+    -webkit-filter: grayscale(100%);
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+    .column {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
+}
