@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://unpkg.com/papercss/dist/paper.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <title>homework5_1</title>
+    <script src="homework5_2.js"></script>
+    <title>homework5_2</title>
 </head>
 <body>
 <div class="row">
@@ -12,16 +13,14 @@
     <div class="col-4 col">
         <form method="post">
             <div class="form-group">
-                <label for="paperInputs1">Type your e-mail:</label>
-                <input type="text" placeholder="E-mail" id="paperInputs1" style="width: 100%">
-                <input type="submit" value="Submit" id="submit" style="margin-top: 2%">
+                <label for="paperInputs1">Convert any format number to formal format number.</label>
+                <input type="text" placeholder="Type a number" id="paperInputs1" style="width:100%"
+                       onkeyup="calculate()">
+                <div id="result"></div>
             </div>
         </form>
     </div>
     <div class="col-4 col"></div>
-</div>
+
 </body>
-<script>
-    $('#paperInputs1').attr('pattern', '[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$')
-</script>
 </html>
