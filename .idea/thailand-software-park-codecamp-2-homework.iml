@@ -8,5 +8,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/es6-collections" level="application" />
+    <orderEntry type="library" name="@types/es6-promisify" level="application" />
+    <orderEntry type="library" name="@types/es6-shim" level="application" />
+    <orderEntry type="library" name="@types/es6-weak-map" level="application" />
+    <orderEntry type="library" name="@types/fetch-jsonp" level="application" />
+    <orderEntry type="library" name="@types/fetch-mock" level="application" />
+    <orderEntry type="library" name="@types/fetch.io" level="application" />
+    <orderEntry type="library" name="@types/isomorphic-fetch" level="application" />
+    <orderEntry type="library" name="@types/jquery" level="application" />
+    <orderEntry type="library" name="@types/jest" level="application" />
   </component>
 </module>
