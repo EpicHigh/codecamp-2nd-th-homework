@@ -3,20 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://unpkg.com/papercss/dist/paper.min.css">
+    <script src="homework5_2.js"></script>
     <title>homework5_2</title>
 </head>
 <body>
 <div class="row">
     <div class="col-4 col"></div>
     <div class="col-4 col">
-        <form method="post">
-            <div class="form-group">
-                <label for="paperInputs1">Convert any format number to formal format number.</label>
-                <input type="text" placeholder="Type a number" id="paperInputs1" style="width:100%"
-                       onkeyup="calculate()">
-                <div id="result"></div>
+        <div class="form-group">
+            <div>
+                <label for="paperInputs1">Convert Euro to Thai Bath.</label>
             </div>
-        </form>
+            <div class="row">
+                <div class="col-10 col">
+                    <input type="text" placeholder="Type a number" id="paperInputs1"
+                           style="width: 100%">
+                </div>
+                <div class="col-2 col">
+                    <p style="padding-left: 5%">EUR</p>
+                </div>
+
+            </div>
+            <div class="row" style="margin-top: -10%">
+                <div class="col-10 col" id="result">
+                </div>
+                <div class="col-2 col">
+                    <p>THB</p>
+                </div>
+            </div>
+            <div>
+                <button class="btn-secondary" id="convert" style="margin-left: 2.5%">Convert</button>
+            </div>
+        </div>
     </div>
     <div class="col-4 col"></div>
 </div>
