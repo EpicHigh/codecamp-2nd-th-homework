@@ -18,9 +18,12 @@ fetch("https://swapi.co/api/people/?format=json")
 
             for (let j in people["results"][i]) {
                 if (j === "homeworld") {
-                    myModalBody += `<li id="${j}-${i}"></li>`;
                     fetchhomeworld(`${people["results"][i][j]}?format=json`, i);
-                } else {
+                }
+                else if (j === "films") {
+
+                }
+                else {
                     myModalBody += `<li>${j}: ${people["results"][i][j]}</li>`;
                 }
             }
@@ -38,7 +41,7 @@ function fetchhomeworld(homeworld, number) {
             return response.json();
         })
         .then(homeworld => {
-            console.log(homeworld["name"]);
+
             document.getElementById(`homeworld-${number}`).innerHTML = `homeworld: ${
                 homeworld["name"]
                 }`;
@@ -46,4 +49,12 @@ function fetchhomeworld(homeworld, number) {
         .catch(error => {
             console.log("Error:", error);
         });
+}
+
+function fetchFilms(films, number) {
+    fetch(films).then(response => {
+        return response.json();
+    }).then(films => {
+
+    })
 }

@@ -1,5 +1,5 @@
 {
-  "name": "migrate-to-webpack",
+  "name": "call-a-third-party",
   "version": "1.0.0",
   "description": "Call a third party library.",
   "main": "webpack.config.js",
