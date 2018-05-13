@@ -2,9 +2,46 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://unpkg.com/papercss@1.4.1/dist/paper.min.css">
+    <title>homework6_1</title>
 </head>
-<body>
-
+<body id="myBody">
+<div class="row flex-right flex-top" style="margin-right: 5%">
+    <p style="margin-right: 2.5%">Select theme</p>
+    <select style="margin-top: 1.5%" onchange="changeSelectBGColor(this)">
+        <option value="white" selected>Default</option>
+        <option value="#c1c0bd">Grey</option>
+        <option value="#deefff">Blue</option>
+        <option value="#d0dbc2">Green</option>
+        <option value="#f5f0c6">Yellow</option>
+        <option value="#f0cbc9">Red</option>
+    </select>
+</div>
+<div class="row">
+    <div class="col-3 col"></div>
+    <div class="col-6 col">
+        <h1>A Subtitle</h1>
+    </div>
+    <div class="col-3 col"></div>
+</div>
+<div class="row">
+    <div class="col-3 col"></div>
+    <div class="col-6 col">
+        <p>A <b>paragraph</b> of <span class="text-danger">text</span> with an <a href="#" target="_blank">unassigned
+            link.</a></p>
+        <p>A second <u>row</u> of text with a <a href="#" target="_blank">web link</a></p>
+    </div>
+    <div class="col-3 col"></div>
+</div>
 </body>
+<script>
+    function changeSelectBGColor(form_element) {
+        let body = document.getElementById("myBody");
+        if (form_element.value !== "none")
+            body.style.backgroundColor = form_element.value;
+        else body.style.backgroundColor = "none";
+    }
+</script>
 </html>
