@@ -1,0 +1,20 @@
+{
+  "name": "hello-koa",
+  "version": "1.0.0",
+  "description": "hello-koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello-koa"
+  ],
+  "author": "EpicHigh",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-ejs": "^4.1.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.3"
+  }
+}
