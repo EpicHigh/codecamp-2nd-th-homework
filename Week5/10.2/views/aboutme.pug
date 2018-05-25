@@ -1,0 +1,30 @@
+doctype html
+head
+    meta(charset='UTF-8')
+    title About Me
+    link(rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css' integrity='sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4' crossorigin='anonymous')
+    meta(name='viewport' content='width=device-width, initial-scale=1')
+    link(rel='stylesheet' href='/style/mystyle.css')
+    body.portfolio
+nav.navbar.navbar-expand-sm.navbar-dark.bg-dark-transparent
+    .container
+        a.navbar-brand(href='#') PRASIT
+        ul.navbar-nav
+            li.nav-item.active
+                a.nav-link(href='/') About Me
+            li.division |
+            li.nav-item
+                a.nav-link(href='/skills') Skill
+            li.division |
+            li.nav-item
+                a.nav-link(href='/contact') Contact Me
+            li.division |
+            li.nav-item
+                a.nav-link(href='/portfolio') Portfolio
+.container-fluid
+    #content.d-flex.justify-content-center
+        video(preload='auto' autoplay='autoplay' muted='muted' loop='loop')
+            source(src='//i.imgur.com/G67gpLY.mp4' type='video/mp4')
+    #content.d-flex.justify-content-center
+        h1  I&apos;m a fat tiger, and I&apos;m adorable
+        p

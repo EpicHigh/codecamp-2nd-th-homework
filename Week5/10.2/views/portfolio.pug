@@ -1,0 +1,83 @@
+doctype html
+head
+    meta(charset='UTF-8')
+    title Portflio
+    link(rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css' integrity='sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4' crossorigin='anonymous')
+    link(rel='stylesheet' href='/style/mystyle.css')
+    link(rel='stylesheet' href='https://use.fontawesome.com/releases/v5.0.10/css/all.css' integrity='sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg' crossorigin='anonymous')
+    meta(name='viewport' content='width=device-width, initial-scale=1')
+    body.portfolio
+nav.navbar.navbar-expand-sm.navbar-dark.bg-dark-transparent
+    .container
+        a.navbar-brand(href='#') PRASIT
+        form.form-inline
+            input.form-control.mr-sm-2(type='search' placeholder='Search Product' aria-label='Search')
+            button.btn.btn-outline-success.my-2.my-sm-0(type='submit') Search
+    ul.navbar-nav
+        li.nav-item
+            a.nav-link(href='/') About Me
+        li.division |
+        li.nav-item
+            a.nav-link(href='/skills') Skill
+        li.division |
+        li.nav-item
+            a.nav-link(href='/contact') Contact Me
+        li.division |
+        li.nav-item.active
+            a.nav-link(href='/portfolio') Portfolio
+.d-flex.justify-content-center(style='margin-top: 10%')
+    h1 My Work
+.container
+    .row.row-image
+        .col
+            div
+                img.project-image(src='https://images.pexels.com/photos/1028599/pexels-photo-1028599.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260')
+                ul.color-white
+                    li Product Name
+                    li Price
+                    li Description
+        .col
+            img.project-image(src='https://images.pexels.com/photos/377911/pexels-photo-377911.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260')
+            ul.color-white
+                li Product Name
+                li Price
+                li Description
+        .col
+            img.project-image(src='https://images.pexels.com/photos/814372/pexels-photo-814372.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260')
+            ul.color-white
+                li Product Name
+                li Price
+                li Description
+        .row.row-image-second
+            .col
+                img.project-image(src='https://images.pexels.com/photos/890575/pexels-photo-890575.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260')
+                ul.color-white
+                    li Product Name
+                    li Price
+                    li Description
+            .col
+                img.project-image(src='https://images.pexels.com/photos/1023949/pexels-photo-1023949.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260')
+                ul.color-white
+                    li Product Name
+                    li Price
+                    li Description
+            .col
+                img.project-image(src='https://images.pexels.com/photos/876441/pexels-photo-876441.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260')
+                ul.color-white
+                    li Product Name
+                    li Price
+                    li Description
+    footer
+        h3 ------------------------------------------------------------------------
+        a(href='https://www.facebook.com/expurgatorious' target='_blank')
+            i.fab.fa-facebook.icons
+        a(href='https://github.com/EpicHigh' target='_blank')
+            i.fab.fa-github.icons
+        a(href='https://gitlab.com/EpicHighX' target='_blank' style='margin-top: -50px')
+            i.fab.fa-gitlab.icons
+        a(href='https://www.linkedin.com/in/prasit-tongpradit/' target='_blank')
+            i.fab.fa-linkedin.icons
+        a(href='https://www.behance.net/prasit_ton983e' target='_blank')
+            i.fab.fa-behance.icons
+        a(href='https://medium.com/@prasittongpradit' target='_blank')
+            i.fab.fa-medium.icons
