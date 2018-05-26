@@ -1,0 +1,22 @@
+{
+  "name": "homework10_2",
+  "version": "1.0.0",
+  "description": "Build a portfilio by koa.js and pug.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node-mon -e js,pug index.js"
+  },
+  "author": "Prasit Tongpradit",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "koa": "^2.5.1",
+    "koa-pug": "^3.0.0-2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.3",
+    "lodash": "^4.17.10",
+    "nodemon": "^1.17.5"
+  }
+}
