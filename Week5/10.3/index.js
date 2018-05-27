@@ -18,6 +18,7 @@ const pug = new Pug({
 
 router.get(`/`, async ctx => {
     await ctx.render(`index`, myScript)
+
 });
 
 pug.use(app);
