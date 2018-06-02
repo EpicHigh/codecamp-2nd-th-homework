@@ -33,11 +33,13 @@ knex
         const tony = getArray([...data][1]);
         const somchai = getArray([...data][2]);
         const cinderella = getArray([...data][3]);
+
         module.exports.head = head;
         module.exports.luke = luke;
         module.exports.tony = tony;
         module.exports.somchai = somchai;
         module.exports.cinderella = cinderella;
+
     })
     .catch(err => {
         console.error(`Error: ${err}`);
