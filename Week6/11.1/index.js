@@ -3,7 +3,7 @@ const Router = require('koa-router');
 const serve = require('koa-static');
 const path = require('path');
 const Pug = require('koa-pug');
-const myScript = require('./public/script/myscript');
+const myScript = require('./public/scripts/myscript');
 
 const app = new Koa();
 const router = new Router();

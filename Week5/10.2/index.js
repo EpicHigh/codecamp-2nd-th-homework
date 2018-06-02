@@ -16,7 +16,6 @@ const pug = new Pug({
     app: app // equals to pug.use(app) and app.use(pug.middleware)
 });
 
-
 router.get(`/`, async ctx => {
     await ctx.render(`aboutme`)
 });
@@ -33,7 +32,7 @@ router.get(`/portfolio`, async ctx => {
     await ctx.render(`portfolio`)
 });
 
-pug.use(app);
+//pug.use(app);
 app.use(serve(path.join(__dirname, 'public')));
 app.use(router.routes());
 app.use(router.allowedMethods());

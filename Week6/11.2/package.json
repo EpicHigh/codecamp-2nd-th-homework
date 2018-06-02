@@ -1,0 +1,19 @@
+{
+  "name": "koa-web-api",
+  "version": "1.0.0",
+  "description": "Koa mock the web api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasit Tongpradit",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.14.6",
+    "koa": "^2.5.1",
+    "koa-pug": "^3.0.0-2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.3",
+    "pg": "^7.4.3"
+  }
+}

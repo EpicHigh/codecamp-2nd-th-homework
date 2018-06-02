@@ -1,10 +1,12 @@
-const Koa = require('koa');
-const Router = require('koa-router');
-const serve = require('koa-static');
-const path = require('path');
+//any requires from node_modules
+const Koa = require("koa");
+const Router = require("koa-router");
+const serve = require("koa-static");
+const path = require("path");
 const Pug = require('koa-pug');
-const myScript = require('./public/script/myscript');
+const myScript = require("./scripts/myscript");
 
+//any new
 const app = new Koa();
 const router = new Router();
 const pug = new Pug({
@@ -16,13 +18,11 @@ const pug = new Pug({
     app: app // equals to pug.use(app) and app.use(pug.middleware)
 });
 
-router.get(`/`, async ctx => {
-    await ctx.render(`index`, myScript)
-
+router.get("/", async (ctx) => {
+    await ctx.render(`index`, myScript);
 });
 
-app.use(serve(path.join(__dirname, 'public')));
+//app.use(serve(path.join(__dirname, "scripts")));
 app.use(router.routes());
 app.use(router.allowedMethods());
-
 app.listen(3000);

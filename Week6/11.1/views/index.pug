@@ -1,0 +1,29 @@
+doctype html
+head
+    meta(charset='UTF-8')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    meta(http-equiv='X-UA-Compatible' content='ie=edge')
+    link(rel='stylesheet' href='https://unpkg.com/papercss@1.4.1/dist/paper.min.css')
+    title homework11_1
+    .row
+        .col-2.col
+        .col-8.col
+            table
+                thead
+                    tr
+                    each i in head
+                        th= i
+                tbody
+                    tr
+                    each i in luke
+                        td= i
+                    tr
+                    each i in tony
+                        td= i
+                    tr
+                    each i in somchai
+                        td= i
+                    tr
+                    each i in cinderella
+                        td= i
+        .col-2.col
