@@ -1,0 +1,47 @@
+extends layout
+block content
+    .container
+        h1 No an instructor
+        table.table-hover
+            thead
+                tr
+                    each i in course_title
+                        th= i
+            tbody
+                tr
+                    each i in course_data[0]
+                        td= i
+                tr
+                    each i in course_data[1]
+                        td= i
+                tr
+                    each i in course_data[2]
+                        td= i
+        h1 No a course
+        table.table-hover
+            thead
+                tr
+                    each i in instructors_title
+                        th= i
+            tbody
+                tr
+                    each i in instructors_data[0]
+                        td= i
+                tr
+                    each i in instructors_data[1]
+                        td= i
+                tr
+                    each i in instructors_data[2]
+                        td= i
+                tr
+                    each i in instructors_data[3]
+                        td= i
+                tr
+                    each i in instructors_data[4]
+                        td= i
+                tr
+                    each i in instructors_data[5]
+                        td= i
+                tr
+                    each i in instructors_data[6]
+                        td= i

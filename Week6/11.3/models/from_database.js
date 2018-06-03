@@ -2,11 +2,13 @@ const config = require(`../lib/db`);
 const knex = require("knex")(config);
 knex
     .select("*")
-    .from("user").then(data => {
-    module.exports.from_db = from_database(data)
-}).catch(err => {
+    .from("user")
+    .then(data => {
+        module.exports.from_db = from_database(data);
+    })
+    .catch(err => {
     console.error(`Error: ${err}`);
-});
+    });
 
 function from_database(obj) {
     let temp = ``;
@@ -25,5 +27,3 @@ function from_database(obj) {
     temp += `]`;
     return temp;
 }
-
-

@@ -4,18 +4,18 @@ const Router = require("koa-router");
 const serve = require("koa-static");
 const path = require("path");
 const fs = require("fs");
-const Pug = require('koa-pug');
-const myScript = require('./public/scripts/myscript');
+const Pug = require("koa-pug");
+const myScript = require("./public/scripts/myscript");
 
 //any new
 const app = new Koa();
 const router = new Router();
 const pug = new Pug({
-    viewPath: 'views',
+    viewPath: "views",
     debug: false,
     pretty: false,
     compileDebug: false,
-    basedir: 'views',
+    basedir: "views",
     app: app // equals to pug.use(app) and app.use(pug.middleware)
 });
 
@@ -24,7 +24,7 @@ function editJSON(ctx) {
     //Users access to /from_file
     if (ctx[`request`][`url`] === `/from_file`) {
         let obj = JSON.parse(fs.readFileSync("homework2_1.json", "utf8"));
-        return ctx.body = from_database(obj);
+        return (ctx.body = from_database(obj));
     } else {
         ctx.body = `How do you access this page`;
     }
@@ -49,7 +49,7 @@ function from_database(obj) {
 }
 
 //paths
-router.get("/", async (ctx) => {
+router.get("/", async ctx => {
     ctx.render(`index`);
 });
 
@@ -60,7 +60,6 @@ router.get("/from_file", async (ctx, next) => {
 
 router.get("/from_database", async (ctx, next) => {
     ctx.render(`from_database`, myScript);
-
 });
 //Middleware
 app.use(serve(path.join(__dirname, "public")));

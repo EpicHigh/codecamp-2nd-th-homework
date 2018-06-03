@@ -39,7 +39,6 @@ knex
         module.exports.tony = tony;
         module.exports.somchai = somchai;
         module.exports.cinderella = cinderella;
-
     })
     .catch(err => {
         console.error(`Error: ${err}`);

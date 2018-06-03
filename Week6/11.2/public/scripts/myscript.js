@@ -12,7 +12,7 @@ knex
     .select("*")
     .from("user")
     .then(obj => {
-        module.exports.db = from_database(obj)
+        module.exports.db = from_database(obj);
     })
     .catch(err => {
         console.error(`Error: ${err}`);
