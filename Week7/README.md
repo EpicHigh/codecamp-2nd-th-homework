@@ -1,1 +1,1 @@
-> Homework 13.2 - 13.3 assign in SQL command format, So 13.2 - 13.3 do not exist.
+> Homework 13.2 - 13.3 and 14.2 - 14.3 assign in SQL command format, So 13.2 - 13.3 and 14.2 - 14.3 do not exist.
