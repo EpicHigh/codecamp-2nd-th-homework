@@ -1,0 +1,17 @@
+extends layout
+block content
+    .container
+        h3(style="font-family: 'Athiti'") จากคอร์สที่มีคนเรียนทั้งหมด ได้เงินเท่าไร
+        table.table-hover
+            thead
+                tr
+                    each i in courses_title
+                        th= i
+            tbody!= courses_data
+        h3(style="font-family: 'Athiti'") นักเรียนแต่ละคน ซื้อคอร์สไปคนละเท่าไร
+        table.table-hover
+            thead
+                tr
+                    each i in students_title
+                        th= i
+            tbody!= students_data

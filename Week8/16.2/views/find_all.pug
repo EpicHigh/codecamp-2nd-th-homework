@@ -1,0 +1,10 @@
+extends layout
+block content
+    .container
+        h3 Find all instructors
+        table.table-hover
+            thead
+                tr
+                    each i in instructors_title
+                        th= i
+            tbody!= instructors_data

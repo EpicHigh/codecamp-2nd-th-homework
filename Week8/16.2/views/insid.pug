@@ -1,0 +1,10 @@
+extends layout
+block content
+    .container
+        h3 Find an instructor by ID
+        table.table-hover
+            thead
+                tr
+                    each i in instructorsid_title
+                        th= i
+            tbody!= instructorsid_data
