@@ -28,5 +28,5 @@ knex
 	module.exports.instructors_data = table.make_table_body(get_values);
 })
 .catch(err => {
-	console.error(`Error: ${err}`);
+	console.error(`เอ๋อเร่อ: ${err} นะจ๊ะ`);
 });
