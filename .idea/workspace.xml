@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="592d7318-8e0c-4fb1-b7f0-9516749b35a9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Week11/22.1/CEO.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week11/22.1/Employee.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week11/22.2/homework22_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week11/22.3/homework22_3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week11/22.3/Employee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week11/22.3/homework2_1.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/4.3/homework4_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/4.3/homework4_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week11/22.3/homework22_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week11/22.3/homework22_3.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,22 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="homework22_3.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week11/22.3/homework22_3.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="homework22_2.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week11/22.2/homework22_2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,8 +41,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="e\" />
         <option value="EpicHigh &lt;prasit_tongpradit@windowslive.com&gt;" />
+        <option value="e\" />
         <option value="EpicHighX &lt;prasit_tongpradit@windowslive.com&gt;" />
         <option value="Prasit Tongpradit &lt;prasit_tongpradit@windowslive.com&gt;" />
       </list>
@@ -70,8 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week6/11.1/public/scripts/myscript.js" />
-        <option value="$PROJECT_DIR$/Week6/11.1/index.js" />
         <option value="$PROJECT_DIR$/Week6/11.2/public/scripts/myscript.js" />
         <option value="$PROJECT_DIR$/Week6/11.2/index.js" />
         <option value="$PROJECT_DIR$/Week6/11.3/models/from_database.js" />
@@ -119,8 +99,10 @@
         <option value="$PROJECT_DIR$/Week11/22.2/iPhoneX.js" />
         <option value="$PROJECT_DIR$/Week11/22.1/Employee.js" />
         <option value="$PROJECT_DIR$/Week11/22.1/CEO.js" />
-        <option value="$PROJECT_DIR$/Week11/22.3/homework22_3.js" />
         <option value="$PROJECT_DIR$/Week11/22.2/homework22_2.js" />
+        <option value="$PROJECT_DIR$/Week11/22.3/Programmer.js" />
+        <option value="$PROJECT_DIR$/Week11/22.3/CEO.js" />
+        <option value="$PROJECT_DIR$/Week11/22.3/homework22_3.js" />
       </list>
     </option>
   </component>
@@ -219,19 +201,19 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week11/22.3" />
+      <recent name="$PROJECT_DIR$/Week8/16.1" />
+      <recent name="$PROJECT_DIR$/Week8/16.3" />
+      <recent name="$PROJECT_DIR$/Week8/16.2/views" />
+      <recent name="$PROJECT_DIR$/Week8/16.2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Week6/11.3/models" />
       <recent name="$PROJECT_DIR$/Week6/11.3/JSON" />
       <recent name="$PROJECT_DIR$/Week6/11.1/views" />
       <recent name="$PROJECT_DIR$/Week6/11.1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Week8/16.1" />
-      <recent name="$PROJECT_DIR$/Week8/16.3" />
-      <recent name="$PROJECT_DIR$/Week8/16.2/views" />
-      <recent name="$PROJECT_DIR$/Week8/16.2" />
-      <recent name="$PROJECT_DIR$/Week7/14.1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,12 +228,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.CEO.js">
+  <component name="RunManager" selected="Node.js.homework22_3.js">
     <configuration name="CEO.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="CEO.js" working-dir="$PROJECT_DIR$/Week11/22.1" />
     <configuration name="Employee.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Week11/22.1/Employee.js" working-dir="$PROJECT_DIR$/Week11/22.1" />
     <configuration name="Samsung Galaxy Note 8.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Samsung Galaxy Note 8.js" working-dir="$PROJECT_DIR$/Week11/22.2" />
-    <configuration name="course_price.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="course_price.js" working-dir="$PROJECT_DIR$/Week8/16.2/models" />
     <configuration name="from_database.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="from_database.js" working-dir="$PROJECT_DIR$/Week6/11.3/models" />
+    <configuration name="homework22_3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Week11/22.3/homework22_3.js" working-dir="$PROJECT_DIR$/Week11/22.3" />
     <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/Week8/16.2/package.json" />
       <command value="run" />
@@ -263,18 +245,18 @@
     </configuration>
     <list>
       <item itemvalue="npm.start" />
-      <item itemvalue="Node.js.course_price.js" />
       <item itemvalue="Node.js.Employee.js" />
       <item itemvalue="Node.js.Samsung Galaxy Note 8.js" />
       <item itemvalue="Node.js.CEO.js" />
+      <item itemvalue="Node.js.homework22_3.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.homework22_3.js" />
         <item itemvalue="Node.js.CEO.js" />
         <item itemvalue="Node.js.Employee.js" />
         <item itemvalue="Node.js.Samsung Galaxy Note 8.js" />
         <item itemvalue="npm.start" />
-        <item itemvalue="Node.js.course_price.js" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +355,8 @@
       <workItem from="1529125244519" duration="226000" />
       <workItem from="1529134295177" duration="600000" />
       <workItem from="1530076321522" duration="275000" />
-      <workItem from="1530425150355" duration="8867000" />
+      <workItem from="1530425150355" duration="8983000" />
+      <workItem from="1530855696849" duration="5283000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1524768070609</created>
@@ -606,11 +589,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529122907009</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Add homework week 11">
+      <created>1530438332953</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1530438332953</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="419499000" />
+    <option name="totallyTimeSpent" value="424898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -620,16 +610,14 @@
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info id="npm" order="2" sideWeight="0.50142854" side_tool="true" weight="0.14641288" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42714286" />
+      <window_info id="npm" order="2" sideWeight="0.50142854" side_tool="true" weight="0.14641288" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.23142858" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857143" visible="true" weight="0.14787701" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857143" visible="true" weight="0.14787701" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Console" order="7" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info anchor="bottom" id="V8 CPU Profiling" weight="0.32904148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39857143" />
@@ -640,30 +628,33 @@
       <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32714286" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="V8 CPU Profiling" order="12" weight="0.32904148" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
     </layout>
     <layout-to-restore>
       <window_info anchor="bottom" id="Console" order="7" />
-      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info id="npm" order="2" sideWeight="0.50142854" side_tool="true" weight="0.14641288" />
       <window_info id="Project Explorer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857143" visible="true" weight="0.14787701" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857143" visible="true" weight="0.14787701" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25142857" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42714286" />
       <window_info id="DB Browser" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info id="Job Explorer" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39857143" />
+      <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.23142858" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="V8 CPU Profiling" order="14" weight="0.32904148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32714286" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
@@ -681,7 +672,8 @@
     <MESSAGE value="Add README.md files" />
     <MESSAGE value="Reformat code with prettier, add redirect and edit some error log." />
     <MESSAGE value="Initial commmit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commmit" />
+    <MESSAGE value="Add homework week 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add homework week 11" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -692,34 +684,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week8/16.1/views/layout.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week8/16.1/views/find_all.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week8/16.1/views/couid.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week8/16.1/views/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week6/11.2/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-156">
@@ -964,41 +928,57 @@
     <entry file="file://$PROJECT_DIR$/Week2/4.3/homework4_3.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week11/22.2/Samsung Galaxy Note 8.js">
+    <entry file="file://$PROJECT_DIR$/Week11/22.2/Samsung Galaxy Note 8.js" />
+    <entry file="file://$PROJECT_DIR$/Week11/22.2/iPhoneX.js" />
+    <entry file="file://$PROJECT_DIR$/Week11/22.3/homework22_3.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week11/22.1/Employee.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="228">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week11/22.2/iPhoneX.js">
+    <entry file="file://$PROJECT_DIR$/Week11/22.2/homework22_2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="502">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week11/22.3/Programmer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week11/22.3/Employee.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week11/22.1/CEO.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week11/22.1/Employee.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="127">
+          <caret line="47" column="50" selection-start-line="47" selection-end-line="47" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week11/22.3/homework22_3.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week11/22.2/homework22_2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        <state relative-caret-position="58">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week11/22.3/homework2_1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
