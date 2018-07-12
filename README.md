@@ -43,4 +43,4 @@ To turn a 🐣 to a full-stack web developer. This repository is my assignments 
 - Object Oriented Programming
 ### Week 12
 - Introduction of React & JSX
-- React Props, State, Event handler
+- React Props, State & Event Handler
