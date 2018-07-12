@@ -420,4 +420,8 @@ test/
 Week7/13.1/package-lock.json
 Week7/14.1/package-lock.json
 Week8/16.1/package-lock.json
+Week8/16.2/package-lock.jsons
+/Week12/23.1-23.2,24.1-24.2/node_modules/
+/Week12/23.1-23.2,24.1-24.2/package-lock.json
+/Week12/23.1-23.2,24.1-24.2/.idea/
 Week8/16.2/package-lock.json

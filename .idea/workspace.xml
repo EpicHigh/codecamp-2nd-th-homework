@@ -2,10 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="592d7318-8e0c-4fb1-b7f0-9516749b35a9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Week11/22.3/Employee.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week11/22.3/homework2_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.idea/dictionaries/ap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.idea/pikkanodeXreact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/app/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/app/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/app/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/components/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/components/CardList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/components/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/components/Scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/db/pokemon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/images/pikkanode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/scripts/cardColor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/styles/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week11/22.3/homework22_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week11/22.3/homework22_3.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +44,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Card.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/components/Card.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,7 +130,6 @@
         <option value="$PROJECT_DIR$/Week7/14.1/README.md" />
         <option value="$PROJECT_DIR$/Week8/16.1/README.md" />
         <option value="$PROJECT_DIR$/Week8/16.2/README.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Week8/16.2/models/instructor.js" />
         <option value="$PROJECT_DIR$/Week8/16.2/models/instructor_id.js" />
         <option value="$PROJECT_DIR$/Week8/16.2/index.js" />
@@ -103,6 +144,7 @@
         <option value="$PROJECT_DIR$/Week11/22.3/Programmer.js" />
         <option value="$PROJECT_DIR$/Week11/22.3/CEO.js" />
         <option value="$PROJECT_DIR$/Week11/22.3/homework22_3.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -121,19 +163,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/Week5/10.2/node_modules" />
-    <handled-path value="$PROJECT_DIR$/Week5/10.3/node_modules" />
-    <handled-path value="$PROJECT_DIR$/Week6/11.1/node_modules" />
-    <handled-path value="$PROJECT_DIR$/Week6/11.2/node_modules" />
-    <handled-path value="$PROJECT_DIR$/Week6/11.3/node_modules" />
-    <handled-path value="$PROJECT_DIR$/Week6/12.1/node_modules" />
-    <handled-path value="$PROJECT_DIR$/Week7/13.1/node_modules" />
-    <handled-path value="$PROJECT_DIR$/Week7/14.1/node_modules" />
-    <handled-path value="$PROJECT_DIR$/Week8/16.1/node_modules" />
-    <handled-path value="$PROJECT_DIR$/Week8/16.2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/package.json" />
       <path value="$PROJECT_DIR$/Week3/6.2/package.json" />
       <path value="$PROJECT_DIR$/Week3/6.3/package.json" />
       <path value="$PROJECT_DIR$/Week5/10.1/package.json" />
@@ -159,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,13 +205,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
+    <property name="add_unversioned_files" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.11.1" />
@@ -356,7 +390,10 @@
       <workItem from="1529134295177" duration="600000" />
       <workItem from="1530076321522" duration="275000" />
       <workItem from="1530425150355" duration="8983000" />
-      <workItem from="1530855696849" duration="5283000" />
+      <workItem from="1530855696849" duration="5320000" />
+      <workItem from="1530938597498" duration="15000" />
+      <workItem from="1530953073885" duration="256000" />
+      <workItem from="1531404826109" duration="220000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1524768070609</created>
@@ -596,11 +633,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530438332953</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Initial commit">
+      <created>1530863717207</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1530863717207</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="424898000" />
+    <option name="totallyTimeSpent" value="425426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -610,10 +654,10 @@
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42714286" />
       <window_info id="npm" order="2" sideWeight="0.50142854" side_tool="true" weight="0.14641288" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42714286" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.23142858" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49857143" visible="true" weight="0.14787701" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857143" visible="true" weight="0.14787701" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -633,28 +677,28 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="bottom" id="Console" order="7" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info id="npm" order="2" sideWeight="0.50142854" side_tool="true" weight="0.14641288" />
       <window_info id="Project Explorer" order="3" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49857143" visible="true" weight="0.14787701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42714286" />
       <window_info id="DB Browser" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39857143" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
       <window_info id="Job Explorer" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39857143" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.23142858" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="V8 CPU Profiling" order="14" weight="0.32904148" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32714286" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
@@ -668,12 +712,12 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="Add README.md files" />
     <MESSAGE value="Reformat code with prettier, add redirect and edit some error log." />
     <MESSAGE value="Initial commmit" />
     <MESSAGE value="Add homework week 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add homework week 11" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -684,20 +728,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week6/11.2/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
-          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week8/16.1/views/insid.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week8/16.1/views/coupri.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -838,13 +868,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="418" column="5" lean-forward="true" selection-start-line="418" selection-start-column="5" selection-end-line="418" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week8/16.2/models/instructor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -940,20 +963,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week11/22.2/homework22_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week11/22.3/Programmer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Week11/22.3/Programmer.js" />
     <entry file="file://$PROJECT_DIR$/Week11/22.3/Employee.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -968,17 +978,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week11/22.2/homework22_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week11/22.3/homework22_3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        <state relative-caret-position="304">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week11/22.3/homework2_1.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
+        <state relative-caret-position="220">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="422" column="29" selection-start-line="422" selection-start-column="29" selection-end-line="422" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week12/23.1-23.2,24.1-24.2/src/components/Card.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

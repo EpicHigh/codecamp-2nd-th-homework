@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+
+.Card-Grass {
+    background-color: #A7DB8D;
+}
+
+.Card-Fire {
+    background-color: #F5AC78;
+}
+
+.Card-Water {
+    background-color: #9DB7F5;
+}
+
+.Card-Bug {
+    background-color: #C6D16E;
+}
+
+.Card-Normal {
+    background-color: #C6C6A7;
+}
+
+.Card-Poison {
+    background-color: #C183C1;
+}
+
+.Card-Electric {
+    background-color: #FAE078;
+}
+
+.Card-Ground {
+    background-color: #EBD69D;
+}
+
+.Card-Fairy {
+    background-color: #F4BDC9;
+}
+
+.Card-Fighting {
+    background-color: #D67873;
+}
+
+.Card-Psychic {
+    background-color: #FA92B2;
+}
+
+.Card-Rock {
+    background-color: #D1C17D;
+}
+
+.Content {
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+}

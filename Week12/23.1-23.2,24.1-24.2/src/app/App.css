@@ -1,0 +1,16 @@
+.poke {
+    font-family: Avenir, sans-serif;
+    color: white;
+    letter-spacing: 0.5em;
+    font-size: 3.0em;
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 600px) {
+    .poke {
+        font-family: Avenir, sans-serif;
+        color: white;
+        font-size: 2.0em;
+        font-weight: bolder;
+    }
+}
