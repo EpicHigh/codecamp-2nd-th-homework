@@ -7,7 +7,6 @@ To turn a 🐣 to a full-stack web developer. This repository is my assignments 
 * **Week 6 & 7**: Some asssignments are not on this repo, because assignments must be sent to the SQL format.
 * **Week 9 & 10**: A mini project name [Pikkanode](https://github.com/EpicHigh/pikkanode). (Make with KoaJS)
 * **Week 11**: There are no 21.x assisnments, because have a mini test.
-* **Week 12 & 13**: Check out my React project repo.
 ## Course Syllabus
 ### Week 1 
 - HTML
