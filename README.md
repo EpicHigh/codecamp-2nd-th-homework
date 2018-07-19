@@ -45,5 +45,5 @@ To turn a 🐣 to a full-stack web developer. This repository is my assignments 
 - Introduction of React & JSX
 - React Props, State & Event Handler
 ### Week 13
-- Advanced React Props, State & Event Handler
-- React Router, Refs & Axios
+- Advanced React Props, State & Event Handler. [Check out this repository.](https://github.com/EpicHigh/indecision-app)
+- React Router, Refs & Axios. [Check out this repository.](https://github.com/EpicHigh/pikkanode-x-react)
