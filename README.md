@@ -1,7 +1,7 @@
 # Software Park Thailand: Code Camp 2
 **April 21, 2018 - October 21, 2018**
 
-Software Park Thailand is a government agency under the National Science and Technology Development Agency, and was established to stimulate the development of the Thai software industry. Which Software Park Thailand make code camp for training, to be a full-stack web developer. This repository is my assignments at Code Camp 2.
+Software Park Thailand is a government agency under the National Science and Technology Development Agency, and was established to stimulate the development of the Thai software industry. Which Software Park Thailand make code camp for training, to be a full-stack web developer. This repository is my assignments at code camp of Software Park Thailand.
 
 #### Note
 * **Week 6 & 7**: Some asssignments are not on this repo, because assignments must be sent to the SQL format.
@@ -45,5 +45,13 @@ Software Park Thailand is a government agency under the National Science and Tec
 - Introduction of React & JSX
 - React Props, State & Event Handler
 ### Week 13
-- Advanced React Props, State & Event Handler. [Check out this repository.](https://github.com/EpicHigh/indecision-app)
-- React Router, Refs & Axios. [Check out this repository.](https://github.com/EpicHigh/pikkanode-x-react)
+- Advanced React Props, State & Event Handler [Check out this repository.](https://github.com/EpicHigh/indecision-app)
+- React Router, Refs & Axios [Check out this repository.](https://github.com/EpicHigh/pikkanode-x-react)
+### Week 14
+- React Component Life Cycle [Check out this repository.](https://github.com/EpicHigh/pikkanode-x-react)
+- React Redux Check out this [repository](https://github.com/EpicHigh/pikkanode-x-react) and this repository(https://github.com/EpicHigh/user-generator-app-redux).
+### Week 15
+- Cloud, Linux and Deployment
+- Basic Network and Security
+### Week 16
+-  Reverse Proxy, Scaling, Process Manager
