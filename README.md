@@ -51,7 +51,7 @@ Software Park Thailand is a government agency under the National Science and Tec
 - React Component Life Cycle [Check out this repository.](https://github.com/EpicHigh/pikkanode-x-react)
 - React Redux Check out this [repository](https://github.com/EpicHigh/pikkanode-x-react) and this repository(https://github.com/EpicHigh/user-generator-app-redux).
 ### Week 15
-- Cloud, Linux and Deployment
-- Basic Network and Security
+- Cloud, Linux & Deployment
+- Basic Network & Security
 ### Week 16
--  Reverse Proxy, Scaling, Process Manager
+-  Reverse Proxy, Scaling &Process Manager
