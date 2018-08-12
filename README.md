@@ -54,4 +54,4 @@ Software Park Thailand is a government agency under the National Science and Tec
 - Cloud, Linux & Deployment
 - Basic Network & Security
 ### Week 16
--  Reverse Proxy, Scaling &Process Manager
+-  Reverse Proxy, Scaling & Process Manager
