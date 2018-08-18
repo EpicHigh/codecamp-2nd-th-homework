@@ -34,7 +34,7 @@ Software Park Thailand is a government agency under the National Science and Tec
 - Design Patterns
 ### Week 9
 - HTTP & Advanced Koa
-- Encode, Hash, Cookie, and Session
+- Encode, Hash, Cookie & Session
 ### Week 10
 - API Design, CORS, Email & Image Processing
 - Facebook Login & API
