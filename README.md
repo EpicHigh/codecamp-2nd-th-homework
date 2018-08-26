@@ -1,7 +1,7 @@
-# Thailand Software Park Code Camp 2 Homework
+# Software Park Thailand: Code Camp 2
 **April 21, 2018 - October 21, 2018**
 
-To turn a 🐣 to a full-stack web developer. This repository is my assignments at Code Camp 2.
+Software Park Thailand is a government agency under the National Science and Technology Development Agency, and was established to stimulate the development of the Thai software industry. Which Software Park Thailand make code camp for training, to be a full-stack web developer. This repository is my assignments at code camp of Software Park Thailand.
 
 #### Note
 * **Week 6 & 7**: Some asssignments are not on this repo, because assignments must be sent to the SQL format.
@@ -34,7 +34,7 @@ To turn a 🐣 to a full-stack web developer. This repository is my assignments 
 - Design Patterns
 ### Week 9
 - HTTP & Advanced Koa
-- Encode, Hash, Cookie, and Session
+- Encode, Hash, Cookie & Session
 ### Week 10
 - API Design, CORS, Email & Image Processing
 - Facebook Login & API
@@ -45,4 +45,17 @@ To turn a 🐣 to a full-stack web developer. This repository is my assignments 
 - Introduction of React & JSX
 - React Props, State & Event Handler
 ### Week 13
-- Advanced React Props, State & Event Handler
+- Advanced React Props, State & Event Handler [Check out this repository.](https://github.com/EpicHigh/indecision-app)
+- React Router, Refs & Axios [Check out this repository.](https://github.com/EpicHigh/pikkanode-x-react)
+### Week 14
+- React Component Life Cycle [Check out this repository.](https://github.com/EpicHigh/pikkanode-x-react)
+- React Redux Check out this [repository](https://github.com/EpicHigh/pikkanode-x-react) and this [repository](https://github.com/EpicHigh/user-generator-app-redux).
+### Week 15
+- Cloud, Linux & Deployment
+- Basic Network & Security
+### Week 16
+-  Reverse Proxy, Scaling & Process Manager
+### Week 17
+- Monitoring & Optimization
+### Week 18
+- Test Driven Development
