@@ -6,7 +6,7 @@ const pool = mysql.createPool({
   user: "root",
   database: "koa_login"
 });
-const tempUserController = require("../controllers/user");
+const tempUserController = require("../../34.1-2/controllers/user");
 const userController = tempUserController(null, pool);
 
 const next = () => true;

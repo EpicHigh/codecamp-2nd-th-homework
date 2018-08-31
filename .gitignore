@@ -416,7 +416,6 @@ Week6/11.1/package-lock.json
 Week6/11.2/package-lock.json
 Week6/11.3/package-lock.json
 Week6/12.1/package-lock.json
-Week17/34.1-2/tests/
 Week7/13.1/package-lock.json
 Week7/14.1/package-lock.json
 Week8/16.1/package-lock.json
@@ -430,3 +429,4 @@ Week8/16.2/package-lock.json
 /Week12/24.3/.idea/
 .idea/templateLanguages.xml
 /Week17/34.1-2/node_modules/
+/Week17/34.3/node_modules/
