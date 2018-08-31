@@ -15,16 +15,16 @@ Software Park Thailand is a government agency under the National Science and Tec
 - Pointer
 - Responsive Web Design
 ### Week 3
-- jQuery
-- Bootstrap, jQuery & Webpack
+- jQuery Part 1
+- Bootstrap, jQuery Part 2 & Webpack
 ### Week 4
 - Functional Programming
-- NodeJS
+- Node.js
 ### Week 5
 - Promise, Async & Await
-- KoaJS
+- Koa.js
 ### Week 6
-- KoaJS, Middleware & Database Connection
+- Koa.js, Middleware & Database Connection
 - RDBMS
 ### Week 7
 - RDBMS: Constraints & Relation
@@ -55,7 +55,9 @@ Software Park Thailand is a government agency under the National Science and Tec
 - Basic Network & Security
 ### Week 16
 -  Reverse Proxy, Scaling & Process Manager
+-  Monitoring & Optimization
 ### Week 17
-- Monitoring & Optimization
+- Final Test
+- Test Driven Development Part 1
 ### Week 18
-- Test Driven Development
+- Test Driven Development Part 2
