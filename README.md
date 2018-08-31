@@ -39,7 +39,7 @@ Software Park Thailand is a government agency under the National Science and Tec
 - API Design, CORS, Email & Image Processing
 - Facebook Login & API
 ### Week 11
-- Mini Test
+- Midterm Test
 - Object Oriented Programming
 ### Week 12
 - Introduction of React & JSX
