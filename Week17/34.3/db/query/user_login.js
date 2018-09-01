@@ -11,5 +11,3 @@ module.exports.checkUser = async (email, password) => {
       : "password do not match"
     : "email do not match";
 };
-
-

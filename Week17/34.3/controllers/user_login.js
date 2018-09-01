@@ -1,15 +1,9 @@
 const loginQuery = require("../db/query/user_login");
 
-module.exports = ctx => {
-  const {
-    request: {
-      body: { email }
-    }
-  } = ctx;
-  const {
-    request: {
-      body: { password }
-    }
-  } = ctx;
+module.exports = ({
+  request: {
+    body: { email, password }
+  }
+}) => {
   return loginQuery.checkUser(email, password);
 };
