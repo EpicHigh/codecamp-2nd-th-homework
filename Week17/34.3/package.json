@@ -1,0 +1,29 @@
+{
+  "name": "34.3",
+  "version": "1.0.0",
+  "description": "Unit test driven development",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpicHigh/codecamp-2nd-th-homework.git"
+  },
+  "author": "Prasit Tongpradit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpicHigh/codecamp-2nd-th-homework/issues"
+  },
+  "homepage": "https://github.com/EpicHigh/codecamp-2nd-th-homework#readme",
+  "dependencies": {
+    "expect": "^23.5.0",
+    "faker": "^4.1.0",
+    "knex": "^0.15.2",
+    "mocha": "^5.2.0",
+    "mysql2": "^1.6.1"
+  }
+}
