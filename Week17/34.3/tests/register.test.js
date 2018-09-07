@@ -117,4 +117,32 @@ describe("All register functions are work correctly", () => {
       "Username, email or password can not include spaces"
     );
   });
+
+  it("should return username, email or password can not include spaces. (username has spaces)", async () => {
+    const ctx = {
+      request: {
+        body: {
+          username: "asdfja posdfk ao",
+          password: faker.internet.password(),
+          email: faker.internet.email()
+        }
+      }
+    }; // ctx obj block scope
+    const result = await register(ctx);
+    expect(result).toEqual(
+      "Username, email or password can not include spaces"
+    );
+  });
+
+	it("should return username, email or password can not include spaces. (email has spaces)", async () => {
+		const ctx = {
+			request: {
+				body: {
+					username: faker.internet.userName(),
+					password: faker.internet.password(),
+					email: faker.internet.email()
+				}
+			}
+		}
+	});
 });

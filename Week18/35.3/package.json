@@ -1,0 +1,27 @@
+{
+  "name": "35.3",
+  "version": "1.0.0",
+  "description": "Unit test driven delopment with Sinon.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpicHigh/codecamp-2nd-th-homework.git"
+  },
+  "keywords": [
+    "Sinon.js"
+  ],
+  "author": "Prasit Tongpradit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpicHigh/codecamp-2nd-th-homework/issues"
+  },
+  "homepage": "https://github.com/EpicHigh/codecamp-2nd-th-homework#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "mocha": "^5.2.0",
+    "sinon": "^6.2.0"
+  }
+}

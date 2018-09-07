@@ -13,8 +13,8 @@ module.exports = async ({
   console.log(`username: ${username}, email: ${email}, password: ${password}`);
 
   return username !== "" && email !== "" && password !== ""
-    ? !String(username).includes(" ") ||
-      !String(email).includes(" ") ||
+    ? !String(username).includes(" ") &&
+      !String(email).includes(" ") &&
       !String(password).includes(" ")
       ? duplUser || (duplEmail && duplUser) || duplEmail
         ? duplUser

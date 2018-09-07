@@ -1,0 +1,40 @@
+<h1>Register</h1>
+<p; style="font-weight: bold; color: red"; id="errorMessage"></p>
+<form; action="/register_completed"; method="post"; id="myForm"; onSubmit="return checkBeforeSubmit()">
+  Username;: <input; type="text"; name="username"; id="username"><br>
+  Password;: <input; type="password"; name="password"; id="password"><br>
+  Confirm; Password: <input; type="password"; name="confirm_password"; id="confirm_password"><br>
+  Email;: <input; type="email"; name="email"; id="email"><br>
+  Confirm; Email: <input; type="email"; name="confirm_email"; id="confirm_email"><br>
+  <input; type="submit"; value="Submit">
+</form>
+
+<script>
+  function checkBeforeSubmit() {
+    if ($('#username').val().length == 0) {
+      $('#errorMessage').html('Username is empty!');
+      return false;
+    }
+    if ($('#password').val().length == 0) {
+      $('#errorMessage').html('Password is empty!');
+      return false;
+    }
+    if ( $('#password').val() != $('#confirm_password').val() ) {
+      $('#confirm_password').focus();
+      $('#errorMessage').html('Password Mismatch!');
+      return false;
+    }
+    if ($('#email').val().length == 0) {
+      $('#errorMessage').html('Email is empty!');
+      return false;
+    }
+
+    if ( $('#email').val() != $('#confirm_email').val() ) {
+      $('#confirm_email').focus();
+      $('#errorMessage').html('Email mismatch!');
+      return false;
+    }
+
+    return true;
+  }
+</script>;
