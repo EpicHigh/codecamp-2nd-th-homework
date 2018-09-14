@@ -6,7 +6,7 @@ Software Park Thailand is a government agency under the National Science and Tec
 #### Note
 * **Week 6 & 7**: Some asssignments are not on this repo, because assignments must be sent to the SQL format.
 * **Week 9 & 10**: A mini project name [Pikkanode](https://github.com/EpicHigh/pikkanode). (Make with KoaJS)
-* **Week 11**: There are no 21.x assisnments, because have a mini test.
+
 ## Course Syllabus
 ### Week 1 
 - HTML
@@ -36,7 +36,7 @@ Software Park Thailand is a government agency under the National Science and Tec
 - HTTP & Advanced Koa
 - Encode, Hash, Cookie & Session
 ### Week 10
-- API Design, CORS, Email & Image Processing
+- API Design, CORS, Email & Image Processing [Check out this repository.](https://github.com/EpicHigh/Pikkanode-API)
 - Facebook Login & API
 ### Week 11
 - Midterm Test
