@@ -1,7 +1,9 @@
 # Software Park Thailand: Code Camp 2
 **April 21, 2018 - October 21, 2018**
 
-Software Park Thailand is a government agency under the National Science and Technology Development Agency, and was established to stimulate the development of the Thai software industry. Which Software Park Thailand make code camp for training, to be a full-stack web developer. This repository is my assignments at code camp of Software Park Thailand.
+Software Park Thailand is a government agency under the National Science and Technology Development Agency, and was established to stimulate the development of the Thai software industry and to solve the programmer crisis in Thailand. Software Park has made Code Camp 2 for training who want to be a full-stack developer.
+
+This repository is my assignments at this code camp.
 
 #### Note
 * **Week 6 & 7**: Some asssignments are not on this repo, because assignments must be sent to the SQL format.
