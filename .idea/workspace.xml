@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="592d7318-8e0c-4fb1-b7f0-9516749b35a9" name="Default" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/Week18/36.1/bubble_sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week18/36.2/insertion_sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week18/36.3/merge_sort.js" afterDir="false" />
+    <list default="true" id="592d7318-8e0c-4fb1-b7f0-9516749b35a9" name="Default" comment="Add Day 36 Homework">
+      <change afterPath="$PROJECT_DIR$/Week19/37.1/reservePolish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week19/37.2/koaMiddlewareMock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week19/38.1/binarySearchTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week19/38.2/depthFirstSearch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week18/36.1/bubble_sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week18/36.1/bubble_sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week18/36.2/insertion_sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week18/36.2/insertion_sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week18/36.3/merge_sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week18/36.3/merge_sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/10.2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week5/10.2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/10.3/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week5/10.3/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/11.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week6/11.1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/11.2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week6/11.2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/11.2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week6/11.2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/11.3/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week6/11.3/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week6/12.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week6/12.1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week7/13.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week7/13.1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week7/14.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week7/14.1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week8/16.1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week8/16.1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week8/16.2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week8/16.2/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,24 +32,25 @@
     <session id="-1954823232">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ejs" value="1" />
           <entry key="gitignore" value="7" />
-          <entry key="js" value="186" />
-          <entry key="json" value="20" />
-          <entry key="md" value="2" />
+          <entry key="js" value="233" />
+          <entry key="json" value="22" />
+          <entry key="md" value="3" />
           <entry key="pug" value="4" />
         </counts>
       </usages-collector>
@@ -42,26 +58,26 @@
         <counts>
           <entry key="EJS" value="1" />
           <entry key="Git file" value="7" />
-          <entry key="JSON" value="19" />
+          <entry key="JSON" value="21" />
           <entry key="Jade" value="4" />
-          <entry key="JavaScript" value="176" />
-          <entry key="Markdown" value="2" />
-          <entry key="Scratch" value="11" />
+          <entry key="JavaScript" value="209" />
+          <entry key="Markdown" value="3" />
+          <entry key="Scratch" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="PrettierLanguageServiceImpl" value="4" />
+          <entry key="PrettierLanguageServiceImpl" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="js" value="16099" />
+          <entry key="js" value="20510" />
           <entry key="json" value="46" />
           <entry key="md" value="94" />
           <entry key="pug" value="97" />
-          <entry key="txt" value="314" />
+          <entry key="txt" value="334" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -69,12 +85,13 @@
           <entry key="Git file" value="1" />
           <entry key="JSON" value="46" />
           <entry key="Jade" value="97" />
-          <entry key="JavaScript" value="13471" />
+          <entry key="JavaScript" value="16799" />
           <entry key="Markdown" value="94" />
-          <entry key="PLAIN_TEXT" value="314" />
-          <entry key="Scratch" value="2628" />
+          <entry key="PLAIN_TEXT" value="334" />
+          <entry key="Scratch" value="3711" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FavoritesManager">
@@ -88,7 +105,53 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week19/37.2/koaMiddlewareMock.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week19/38.2/depthFirstSearch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week19/37.1/reservePolish.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week19/38.1/binarySearchTree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,21 +193,12 @@
         <option value="EpicHighX &lt;prasit_tongpradit@windowslive.com&gt;" />
       </list>
     </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week18/34.1-2/tests/user.test.js" />
-        <option value="$PROJECT_DIR$/Week17/34.1-2/package.json" />
-        <option value="$PROJECT_DIR$/Week17/34.3/package.json" />
-        <option value="$PROJECT_DIR$/Week17/34.3/controllers/user.js" />
-        <option value="$PROJECT_DIR$/Week17/34.3/db/connection.js" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
-        <option value="$PROJECT_DIR$/Week17/34.3/db/query/user.js" />
-        <option value="$PROJECT_DIR$/Week17/34.3/tests/user.test.js" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" />
-        <option value="$PROJECT_DIR$/Week17/34.3/controllers/user_login.js" />
         <option value="$PROJECT_DIR$/Week17/34.3/db/query/user_login.js" />
         <option value="$PROJECT_DIR$/Week17/34.3/tests/login.test.js" />
         <option value="$PROJECT_DIR$/Week17/34.3/db/query/user_register.js" />
@@ -185,6 +239,16 @@
         <option value="$PROJECT_DIR$/Week18/36.1/bubble_sort.js" />
         <option value="$PROJECT_DIR$/Week18/36.2/insertion_sort.js" />
         <option value="$PROJECT_DIR$/Week18/36.3/merge_sort.js" />
+        <option value="$PROJECT_DIR$/Week19/37.1/reserve_polish.js" />
+        <option value="$PROJECT_DIR$/Week19/38.1/binary_search_tree.js" />
+        <option value="$PROJECT_DIR$/Week19/38.2/depth_first_search.js" />
+        <option value="$PROJECT_DIR$/Week19/39.3/breadthFirstSearch.js" />
+        <option value="$PROJECT_DIR$/Week19/37.2.js" />
+        <option value="$PROJECT_DIR$/Week19/37.3/mergeSortStack.js" />
+        <option value="$PROJECT_DIR$/Week19/37.2/koaMiddlewareMock.js" />
+        <option value="$PROJECT_DIR$/Week19/38.1/binarySearchTree.js" />
+        <option value="$PROJECT_DIR$/Week19/38.2/depthFirstSearch.js" />
+        <option value="$PROJECT_DIR$/Week19/37.1/reservePolish.js" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
       </list>
     </option>
@@ -246,12 +310,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="thailand-software-park-codecamp-2-homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thailand-software-park-codecamp-2-homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Week18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thailand-software-park-codecamp-2-homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Week19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thailand-software-park-codecamp-2-homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Week19" type="462c0819:PsiDirectoryNode" />
+              <item name="37.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thailand-software-park-codecamp-2-homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Week19" type="462c0819:PsiDirectoryNode" />
+              <item name="37.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thailand-software-park-codecamp-2-homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Week19" type="462c0819:PsiDirectoryNode" />
+              <item name="38.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thailand-software-park-codecamp-2-homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Week19" type="462c0819:PsiDirectoryNode" />
+              <item name="38.2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thailand-software-park-codecamp-2-homework" type="b2602c69:ProjectViewProjectNode" />
@@ -266,7 +365,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,27 +424,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.merge_sort.js">
-    <configuration name="bubble_sort.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Week18/36.1/bubble_sort.js" working-dir="$PROJECT_DIR$/Week18/36.1">
+  <component name="RunManager" selected="Node.js.binarySearchTree.js">
+    <configuration name="binarySearchTree.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="binarySearchTree.js" working-dir="$PROJECT_DIR$/Week19/38.1">
       <method v="2" />
     </configuration>
-    <configuration name="controller.test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="controller.test.js" working-dir="$PROJECT_DIR$/Week18/35.3/tests">
+    <configuration name="depthFirstSearch.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="depthFirstSearch.js" working-dir="$PROJECT_DIR$/Week19/38.2">
       <method v="2" />
     </configuration>
-    <configuration name="insertion_sort.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="insertion_sort.js" working-dir="$PROJECT_DIR$/Week18/36.2">
+    <configuration name="koaMiddlewareMock.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="koaMiddlewareMock.js" working-dir="$PROJECT_DIR$/Week19/37.2">
       <method v="2" />
     </configuration>
-    <configuration name="merge_sort.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="merge_sort.js" working-dir="$PROJECT_DIR$/Week18/36.3">
+    <configuration name="reservePolish.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="reservePolish.js" working-dir="$PROJECT_DIR$/Week19/37.1">
       <method v="2" />
     </configuration>
-    <configuration name="test" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/Week18/35.3/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="test" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="scratch.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="Controller Test" type="mocha-javascript-test-runner" factoryName="Mocha">
@@ -362,19 +453,19 @@
     </configuration>
     <list>
       <item itemvalue="Mocha.Controller Test" />
-      <item itemvalue="Node.js.controller.test.js" />
-      <item itemvalue="npm.test" />
-      <item itemvalue="Node.js.bubble_sort.js" />
-      <item itemvalue="Node.js.insertion_sort.js" />
-      <item itemvalue="Node.js.merge_sort.js" />
+      <item itemvalue="Node.js.depthFirstSearch.js" />
+      <item itemvalue="Node.js.koaMiddlewareMock.js" />
+      <item itemvalue="Node.js.scratch.js" />
+      <item itemvalue="Node.js.binarySearchTree.js" />
+      <item itemvalue="Node.js.reservePolish.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.merge_sort.js" />
-        <item itemvalue="Node.js.insertion_sort.js" />
-        <item itemvalue="Node.js.bubble_sort.js" />
-        <item itemvalue="Node.js.controller.test.js" />
-        <item itemvalue="npm.test" />
+        <item itemvalue="Node.js.binarySearchTree.js" />
+        <item itemvalue="Node.js.koaMiddlewareMock.js" />
+        <item itemvalue="Node.js.reservePolish.js" />
+        <item itemvalue="Node.js.scratch.js" />
+        <item itemvalue="Node.js.depthFirstSearch.js" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +583,13 @@
       <workItem from="1535855816260" duration="13200000" />
       <workItem from="1535965493077" duration="6040000" />
       <workItem from="1536310147834" duration="1499000" />
-      <workItem from="1536312305154" duration="33184000" />
+      <workItem from="1536312305154" duration="33223000" />
+      <workItem from="1536373827207" duration="90000" />
+      <workItem from="1536378059769" duration="11618000" />
+      <workItem from="1536957113148" duration="12143000" />
+      <workItem from="1536986399147" duration="6115000" />
+      <workItem from="1536994909414" duration="2012000" />
+      <workItem from="1536997527249" duration="543000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1524768070609</created>
@@ -816,7 +913,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536345776760</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Add Day 36 Homework">
+      <created>1536350589180</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1536350589180</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -852,22 +956,23 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="521289000" />
+    <option name="totallyTimeSpent" value="553849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7068273" visible="true" weight="0.20297398" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58285713" visible="true" weight="0.20297398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.2931727" side_tool="true" weight="0.20297398" />
       <window_info id="Project Explorer" order="3" />
       <window_info id="DB Browser" order="4" />
       <window_info id="Job Explorer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.41714287" side_tool="true" weight="0.20297398" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49814126" visible="true" weight="0.30254352" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32797858" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49814126" weight="0.29718876" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43373495" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -880,7 +985,7 @@
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5018587" side_tool="true" weight="0.31860778" />
       <window_info anchor="bottom" id="V8 CPU Profiling" order="14" weight="0.32904148" />
       <window_info anchor="bottom" id="REST Client" order="15" weight="0.42034805" />
-      <window_info anchor="bottom" id="Quokka" order="16" sideWeight="0.49962825" weight="0.28514057" />
+      <window_info active="true" anchor="bottom" x="0" y="569" width="1345" height="199" id="Quokka" order="16" sideWeight="0.49962825" visible="true" weight="0.34002677" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -967,7 +1072,8 @@
     <MESSAGE value="Add package.json and package-lock.json" />
     <MESSAGE value="Add Week 18 Homework" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Add Day 36 Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Day 36 Homework" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
@@ -975,30 +1081,6 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week17/34.1-2/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/connection.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
-    <entry file="file://$PROJECT_DIR$/Week17/34.1-2/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
-          <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" />
-    <entry file="file://$PROJECT_DIR$/Week17/34.1-2/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" />
     <entry file="file://$PROJECT_DIR$/Week18/35.1-2/view/login.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1022,9 +1104,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.1-3/db/db.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.1-3/db/db.js" />
     <entry file="file://$PROJECT_DIR$/Week17/34.1-2/models/user_model.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-56">
@@ -1032,16 +1112,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.1-3/spies/ctx_spies.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.1-3/tests/spies/next_mock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.1-3/spies/ctx_spies.js" />
+    <entry file="file://$PROJECT_DIR$/Week18/35.1-3/tests/spies/next_mock.js" />
     <entry file="file://$PROJECT_DIR$/Week17/34.1-2/controllers/user.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1077,27 +1149,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week18/35.1-2/node_modules/sinon/lib/sinon/mock-expectation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="286" selection-start-line="286" selection-end-line="286" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/tests/spies/ctx_mock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/tests/stub_user.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -1108,20 +1163,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/tests/stubs/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="10" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/tests/stubs/query.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week17/34.3/db/query/user_login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1129,13 +1170,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.3/app/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.3/app/main.js" />
     <entry file="file://$PROJECT_DIR$/Week17/34.3/db/query/user_register.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1143,12 +1178,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.3/tests/stubs/query.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.3/tests/stubs/db.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.3/tests/stubs/query.js" />
+    <entry file="file://$PROJECT_DIR$/Week18/35.3/tests/stubs/db.js" />
     <entry file="file://$PROJECT_DIR$/Week17/34.3/controllers/user_register.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1170,55 +1201,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.3/db/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.3/db/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.3/tests/controller.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="70" column="19" lean-forward="true" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.3/tests/database.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.3/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.3/controller/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/tests/spy_ctx.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week18/35.3/tests/mock/ctx_mock.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1233,11 +1215,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/36.1/bubble_sort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/36.2/insertion_sort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/tests/stubs/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/tests/spies/ctx_mock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/tests/spy_ctx.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/tests/stubs/query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.1-2/tests/stub_user.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-451">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.3/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.3/db/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.3/db/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.3/tests/controller.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.3/tests/database.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-770">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week18/35.3/controller/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="332">
-            <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+          <first_editor relative-caret-position="257">
+            <caret line="66" column="11" lean-forward="true" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1245,27 +1321,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/36.1/bubble_sort.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Week19/38.2/depth_first_search.js" />
+    <entry file="file://$PROJECT_DIR$/Week19/39.3/breadthFirstSearch.js" />
+    <entry file="file://$PROJECT_DIR$/Week19/37.2.js" />
+    <entry file="file://$PROJECT_DIR$/Week18/36.3/merge_sort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="28" column="2" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week19/37.3/mergeSortStack.js" />
+    <entry file="file://$PROJECT_DIR$/Week19/37.1/reservePolish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week19/38.1/binarySearchTree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week19/37.2/koaMiddlewareMock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week19/38.2/depthFirstSearch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/36.3/merge_sort.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week18/36.2/insertion_sort.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="303">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
         </state>
       </provider>
     </entry>

@@ -4,7 +4,9 @@ function merge(arr1, arr2) {
   let result = [];
   let i = 0;
   let j = 0;
-  while (i < arr1.length && j < arr2.length) {
+	/*console.log(arr1.length);
+	console.log(arr2.length);*/
+	while (i < arr1.length && j < arr2.length) {
     if (arr2[j] > arr1[i]) {
       result.push(arr1[i]);
       i++;
@@ -13,14 +15,20 @@ function merge(arr1, arr2) {
       j++;
     }
   }
+  let logResult = JSON.stringify(result);
+	console.log(`while (i < arr1.length && j < arr2.length): ${logResult} `);
   while (i < arr1.length) {
     result.push(arr1[i]);
     i++;
   }
+	let logResult2 = JSON.stringify(result);
+  console.log(`while (i < arr1.length): ${logResult2}`);
   while (j < arr2.length) {
     result.push(arr2[j]);
     j++;
   }
+	let logResult3 = JSON.stringify(result);
+  console.log(`while (j < arr2.length): ${logResult3}`);
   return result;
 }
 

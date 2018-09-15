@@ -18,7 +18,7 @@ const pug = new Pug({
 	pretty: false,
 	compileDebug: false,
 	basedir: "views",
-	app: app // equals to pug.use(app) and app.use(pug.middleware)
+	app: app // equals to pug.use(app) and app.use(pug.Koa)
 });
 
 router.get("/", ctx => {
