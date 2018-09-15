@@ -69,3 +69,26 @@ This repository is my assignments at this code camp.
 - Tree & Graph Algorithms
 ### Week 20
 - Advanced Git
+- Prepare for an intern and a project assignment
+
+*Good Bye, my first repository.* Next will be my second project assignment that is LINE chatbot. The LINE chatbot repository will be updated soon and there are a lot of things that I should familiar with such as Angular, NgRX, TypeScript, Angular Universal. I have a plan to make LINE chatbot to integrate with JavaScript NLP (Natural Languague Processing). 
+
+Thank you this code camp. 
+
+## Authors
+
+* **Prasit Tongpradit** - *Initial work* - [EpicHigh](https://github.com/EpicHigh)
+
+See also the list of [contributors](https://github.com/EpicHigh/codecamp-2nd-th-homework/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Continuous development
+* Inspiration
+* Education
+* etc
